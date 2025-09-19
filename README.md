@@ -15,10 +15,7 @@ The original data was provided by the Jerusalem Municipality and is available in
 │   └── light_edits.csv           # Processed data with header normalization
 ├── geojson/
 │   └── jerusalem_shelters.geojson # GeoJSON format for mapping applications
-├── scripts/
-│   ├── strip_waze_link.py        # Script for extracting Waze navigation links
-│   └── validate_geojson.py       # GeoJSON validation utility
-└── extract_waze_links.py         # Main data processing script
+ 
 ```
 
 ## Data Processing
@@ -48,15 +45,7 @@ This dataset is provided to assist with:
 - Data is current as of September 19th, 2025
 - Users should verify shelter availability and accessibility during actual emergency situations
 - This data is intended to supplement, not replace, official emergency communications
-
-## Scripts
-
-The repository includes utility scripts for data processing and validation:
-
-- `extract_waze_links.py`: Main processing script for data enhancement
-- `scripts/strip_waze_link.py`: Utility for Waze link extraction
-- `scripts/validate_geojson.py`: GeoJSON format validation
-
+ 
 ---
 
 *This dataset is provided for public safety and preparedness purposes. Always follow official emergency guidance and communications during actual emergency situations.*
