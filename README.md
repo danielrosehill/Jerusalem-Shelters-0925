@@ -6,6 +6,8 @@
 ![Last Updated](https://img.shields.io/badge/Updated-September%202025-orange?style=flat-square&logo=calendar)
 ![Location](https://img.shields.io/badge/Location-Jerusalem-purple?style=flat-square&logo=map-pin)
 
+![alt text](screenshots/1.png)
+
 This repository contains updated location data for public shelters in the Jerusalem area, populated on September 19th, 2025. The data has been processed and enhanced to support individual preparedness efforts and geolocation applications.
 
 ## Data Source
